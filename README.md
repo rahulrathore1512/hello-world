@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi everyone, I am Rahul Rathore. My favourite cricketer is Sachin Tendulkar.
